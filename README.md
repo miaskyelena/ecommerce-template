@@ -1,6 +1,6 @@
 # Ecommerce-Template
 
-> An efficient and intuitive ecommerce application designed for Peer-to-Peer businesses.
+> An efficient and intuitive ecommerce application template designed for Peer-to-Peer businesses.
 
 ## CodePath WEB103 Final Project
 
