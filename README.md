@@ -10,7 +10,6 @@
 
 **Demo Video:** 
 
-![landing page]()
 
 ## Table of Contents
 
