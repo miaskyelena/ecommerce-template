@@ -2,7 +2,7 @@
 
 > Connect, Create, and Commerce: A Seamless Peer-to-Peer Experience
 
-Provide your users with a smooth and enjoyable shopping experience. Our intuitive template simplifies the buying and selling process, fostering a thriving community of engaged users.
+Provide your users with a smooth and enjoyable shopping experience. Our intuitive template simplifies the buying and selling process, fostering a thriving community of engaged users. Adapt our flexible ecommerce template to fit your specific business model. Whether you're a small-scale community marketplace or a large-scale peer-to-peer exchange, our scalable solution delivers the tools you need to thrive.
 
 ## CodePath WEB103 Final Project
 
