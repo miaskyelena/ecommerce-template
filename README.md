@@ -51,7 +51,7 @@ An e-commerce web app and peer-to-peer fashion marketplace selling upcycled clot
   - **API Specification (UI):** [OpenAPI (Swagger)](https://github.com/swaggo/swag?tab=readme-ov-file)
   - **Email client:** TBD
 - **Database:** [PostgreSQL](https://www.postgresql.org/)
-- **Hosting:** [Vercel]
+- **Hosting:** [Vercel](https://vercel.com/docs)
 - **Design:** [Figma](https://figma.com/), [Notion](https://www.notion.com/)
 
 ## Project Board
