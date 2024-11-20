@@ -15,7 +15,7 @@ An e-commerce web app and peer-to-peer fashion marketplace selling upcycled clot
 
 **Core team:** [Mia Elena Tapia](https://www.linkedin.com/in/miaelena/)
 
-## Table of contents <!-- omit in toc -->
+## Table of Contents <!-- omit in toc -->
 
 - [Tech stack](#tech-stack)
 - [Project board](#project-board)
@@ -32,7 +32,7 @@ An e-commerce web app and peer-to-peer fashion marketplace selling upcycled clot
 - [License](#license)
 
   
-## Tech stack
+## Tech Stack
 
 - **Frontend**
   - **Languages:** [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Typescript](https://www.typescriptlang.org/) 
@@ -54,7 +54,7 @@ An e-commerce web app and peer-to-peer fashion marketplace selling upcycled clot
 - **Hosting:** [Vercel]
 - **Design:** [Figma](https://figma.com/), [Notion](https://www.notion.com/)
 
-## Project board
+## Project Board
 
 Progress and milestones tracked through the [Ecommerce-Template](https://github.com/users/miaskyelena/projects/2) GitHub project board.
 
