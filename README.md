@@ -1,4 +1,4 @@
-# eCart
+# eCart 
 
 An e-commerce web app and peer-to-peer fashion marketplace selling upcycled clothes.
 
@@ -11,8 +11,6 @@ An e-commerce web app and peer-to-peer fashion marketplace selling upcycled clot
 
 - **Store: ** 
 - **Admin dashboard:** 
-  - **Username:** 
-  - **Password:** 
 - **API docs:**
 
 **Core team:** [Mia Elena Tapia](https://www.linkedin.com/in/miaelena/)
