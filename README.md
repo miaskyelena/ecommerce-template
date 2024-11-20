@@ -1,4 +1,4 @@
-# Ecommerce-Template
+# eCart
 
 An e-commerce web app and peer-to-peer fashion marketplace. 
 
