@@ -1,11 +1,9 @@
 # Ecommerce-Template
 
-> Connect, Create, and Commerce: A Seamless Peer-to-Peer Experience
+> An e-commerce web app to sell upcycled clothes 
 
-Provide your users with a smooth and enjoyable shopping experience. Our intuitive template simplifies the buying and selling process, fostering a thriving community of engaged users. Adapt our flexible ecommerce template to fit your specific business model. Whether you're a small-scale community marketplace or a large-scale peer-to-peer exchange, our scalable solution delivers the tools you need to thrive.
-
-**Designed and developed by:** Mia Elena Tapia
-
+Upcycled Fashion, Reimagined. A sustainable e-commerce platform to shop unique, upcycled clothing.
+**
 
 ## Table of Contents
 
@@ -26,67 +24,68 @@ Provide your users with a smooth and enjoyable shopping experience. Our intuitiv
   - [`product_tag`](#product_tag)
 - [License](#license)
 
-## Features
+**Production**
 
-- **Product Catalog:**
+- **Store:** 
+- **Admin dashboard:** 
 
-  - [x] Ability to create, edit, and delete products.
-  - [x] Categorization and filtering options.
+**Development**
 
-- **Shopping Cart:**
+- **Store: ** 
+- **Admin dashboard:** 
+  - **Username:** 
+  - **Password:** 
+- **API docs:**
 
-  - [x] Add, remove, and update items in the cart.
-  - [x] Calculate and display totals (including taxes and shipping).
+**Core team:** [Mia Elena Tapia](https://www.linkedin.com/in/miaelena/)
 
-- **Checkout Process:**
+## Table of contents <!-- omit in toc -->
 
-  - [ ] Secure payment processing with Stripe.
-  - [ ] Shipping address and billing information.
-  - [ ] Order confirmation and tracking.
+- [Tech stack](#tech-stack)
+- [Project board](#project-board)
+- [Getting started](#getting-started)
+- [Wireframes](#wireframes)
+- [ER Diagram](#er-diagram)
+- [System Design](#system-design)
+- [High Level](#high-level)
+- [Tables](#tables)
+  - [`product`](#product)
+  - [`category`](#category)
+  - [`tag`](#tag)
+  - [`product_tag`](#product_tag)
+- [License](#license)
 
-- **User Accounts:**
-
-  - [ ] User registration and login.
-  - [ ] User product listing display. 
-  - [ ] Wishlistm functionality - user can view liked products. 
-
-  ## Stretch Features 
-
-  - **Search Functionality:**
-
-  - [ ] Keyword search and advanced filtering options.
-  - [ ] Autocomplete suggestions.
-
-  - **Product Reviews and Ratings:**
-
-  - [ ] Allow users to leave reviews and ratings for products.
-  - [ ] Aggregate ratings and display average scores.
-
-  - **Wishlists:**
-
-  - [ ] Enable users to save and view "liked" products for later purchase.
-
-  - **Mobile Optimization:**
-
-  - [ ] Ensure template is responsive and works well on mobile devices. 
-
-## Technologies
+  
+## Tech stack
 
 - **Frontend**
-  - **Languages:** JavaScript
-  - **Frameworks:** React.js (Vite)
-  - **UI Components:** NextUI, TailwindCSS
-  - **Icons:** Lucide Icons, React Icons
-  - **Data Fetching:** useQuery, Axios
-  - **Form Validation:** react-hook-form, Zod
-  - **Notifications/Toasts:** react-hot-toast
+  - **Languages:** [TypeScript](https://www.typescriptlang.org/)
+  - **Frameworks:** [React](https://react.dev/) (w/ [Vite](https://vitejs.dev/))
+  - **UI components:** [ShadCN UI](https://ui.shadcn.com/), [TailwindCSS](https://tailwindcss.com/)
+  - **Icons:** [Lucide Icons](https://lucide.dev/icons/)
+  - **Data fetching/caching:** [React Query](https://tanstack.com/query/latest/docs/framework/react/overview), [Axios](https://axios-http.com/docs/intro)
+  - **Form validation:** [React Hook Form](https://react-hook-form.com/), [Zod](https://zod.dev/)
+  - **Notifications/toasts:** [React Hot Toast](https://react-hot-toast.com/)
 - **Backend:**
-  - **Languages:** Node.js
-  - **Frameworks:** Express
-  - **Authentication:** Passport, OAuth2
-- **Database:** PostgreSQL
-- **Hosting:** Railway
-- **Design:** Whimsical
+  - **Languages:** [Go](https://go.dev/)
+  - **Authentication:** [JSON Web Tokens (JWT)](https://jwt.io/)
+  - **Payment processing:** [Stripe](https://stripe.com/)
+  - **Blob storage:** [Firebase](https://firebase.google.com/)
+  - **API Specification (UI):** [OpenAPI (Swagger)](https://github.com/swaggo/swag?tab=readme-ov-file)
+  - **Email client:** TBD
+- **Database:** [PostgreSQL](https://www.postgresql.org/)
+- **Hosting:** [Railway](https://railway.app/), [Docker Compose](https://docs.docker.com/compose/)
+- **Design:** [Figma](https://figma.com/)
+
+## Project board
+
+We are tracking our progress, working items, and milestones through the [Ecommerce-Template](https://github.com/orgs/sockify/projects/1/views/1) GitHub project board.
+
+![project board](./docs/assets/github_project_board.png)
+
+![project board capacity](./docs/assets/github_project_board_capacity.png)
+
+## Getting started
 
 
 
