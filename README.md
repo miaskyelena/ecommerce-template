@@ -35,7 +35,7 @@ An e-commerce web app and peer-to-peer fashion marketplace selling upcycled clot
 ## Tech stack
 
 - **Frontend**
-  - **Languages:** [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [Typescript](https://www.typescriptlang.org/) 
+  - **Languages:** [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript),[Typescript](https://www.typescriptlang.org/) 
   - **Frameworks:** [React](https://react.dev/) (w/ [Vite](https://vitejs.dev/))[Next.js](https://nextjs.org/)
   - **UI components:** [ShadCN UI](https://ui.shadcn.com/), [TailwindCSS](https://tailwindcss.com/)
   - **Icons:** [Lucide Icons](https://lucide.dev/icons/)
