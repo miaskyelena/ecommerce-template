@@ -1,6 +1,8 @@
 # Ecommerce-Template
 
-> An efficient and intuitive ecommerce application template designed for Peer-to-Peer businesses.
+> Connect, Create, and Commerce: A Seamless Peer-to-Peer Experience
+
+Provide your users with a smooth and enjoyable shopping experience. Our intuitive template simplifies the buying and selling process, fostering a thriving community of engaged users.
 
 ## CodePath WEB103 Final Project
 
