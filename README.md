@@ -27,8 +27,8 @@ An e-commerce web app and peer-to-peer fashion marketplace selling upcycled clot
 - [Tables](#tables)
   - [`product`](#product)
   - [`category`](#category)
-  - [`tag`](#tag)
-  - [`product_tag`](#product_tag)
+  - [`user`](#user)
+  - [`likes`](#likes)
 - [License](#license)
 
   
