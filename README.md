@@ -52,7 +52,7 @@ An e-commerce web app and peer-to-peer fashion marketplace selling upcycled clot
   - **Email client:** TBD
 - **Database:** [PostgreSQL](https://www.postgresql.org/)
 - **Hosting:** [Vercel]
-- **Design:** [Figma](https://figma.com/) [Notion](https://www.notion.com/)
+- **Design:** [Figma](https://figma.com/), [Notion](https://www.notion.com/)
 
 ## Project board
 
