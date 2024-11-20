@@ -9,7 +9,7 @@ An e-commerce web app and peer-to-peer fashion marketplace selling upcycled clot
 
 **Development**
 
-- **Store: ** 
+- **Store:** 
 - **Admin dashboard:** 
 - **API docs:**
 
