@@ -1,9 +1,8 @@
 # Ecommerce-Template
 
-> An e-commerce web app to sell upcycled clothes 
+> A sustainable e-commerce platform to shop unique, upcycled clothing.
 
-Upcycled Fashion, Reimagined. A sustainable e-commerce platform to shop unique, upcycled clothing.
-**
+An e-commerce web app and peer-to-peer fashion marketplace. 
 
 ## Table of Contents
 
