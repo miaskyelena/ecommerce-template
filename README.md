@@ -1,7 +1,5 @@
 # Ecommerce-Template
 
-> A sustainable e-commerce platform to shop unique, upcycled clothing.
-
 An e-commerce web app and peer-to-peer fashion marketplace. 
 
 ## Table of Contents
