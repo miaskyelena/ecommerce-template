@@ -46,6 +46,7 @@ An e-commerce web app and peer-to-peer fashion marketplace.
   - **Notifications/toasts:** [React Hot Toast](https://react-hot-toast.com/)
 - **Backend:**
   - **Languages:** [Node.js](https://go.dev/)
+  - **Frameworks:** [Express](https://expressjs.com/)
   - **Authentication:** [JSON Web Tokens (JWT)](https://jwt.io/)
   - **Payment processing:** [Stripe](https://stripe.com/)
   - **Blob storage:** [Firebase](https://firebase.google.com/)
