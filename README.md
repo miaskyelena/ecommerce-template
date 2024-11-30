@@ -1,6 +1,6 @@
 # eCart 🛍️
 
-An e-commerce web app and peer-to-peer fashion marketplace selling upcycled clothes.
+An e-commerce web application selling up-cycled clothes. 
 
 **Production**
 
